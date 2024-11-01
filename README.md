@@ -4,7 +4,7 @@
 
 <br>
 
-![To Do List](images/screenshot.png)
+![To Do List]
 
 <br>
 This a simple web project, a Task Recorder of sorts. <br>
